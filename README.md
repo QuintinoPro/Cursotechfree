@@ -1,7 +1,7 @@
 <h1 align="center">Cursos Tech Free</h1>
 
 <p align="center">
- <img src="">
+ <img src="./img/cursos tech.png">
 </p>
 
 <br>
